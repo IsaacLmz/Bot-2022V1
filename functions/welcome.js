@@ -5,7 +5,7 @@ const welAwal = `Hola @user
 Bienvenido(a)  al grupo *@group*
 
 ▢ No olvide leer las reglas del grupo :v
-Y recuerda put@ los que se salgan, o sean fantasmones`;
+Y recuerda put@s los que se salgan, o sean fantasmones`;
 
 const byeAwal = `Adiós *@user* estaremos mejorer sin ti eras re putisim@`;
 /**
