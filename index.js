@@ -592,7 +592,7 @@ case 'developer':
 *≡ SCRIPT*
 ▢ Git : ${package.homepage} 
 ` 
-Fg.send2Button(from, teks, '*_© Isaac IsakBot*')
+Fg.send2Button(from, teks, '*_© Isaac IsakBot*', `ꨄ︎ Apoyar`, `${prefix}donate`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
    break
    
     case 'nameninja':
